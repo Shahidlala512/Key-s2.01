@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     
 
-    const MAX_KEYS_PER_GAME_PER_DAY = 10;
+    const MAX_KEYS_PER_GAME_PER_DAY = 999;
 
     //const EVENTS_DELAY = 20000;
 
@@ -818,7 +818,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     
 
-    const MAX_KEYS_PER_GAME_PER_DAY = 10;
+    const MAX_KEYS_PER_GAME_PER_DAY = 999;
 
     //const EVENTS_DELAY = 20000;
 
